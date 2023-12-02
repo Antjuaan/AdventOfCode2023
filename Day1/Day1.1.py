@@ -1,5 +1,5 @@
 # Open the file
-file = open("Day1.txt", "r")
+file = open("Day1\Day1.txt", "r")
 
 # Save in a list each line of the file
 lines = file.readlines()

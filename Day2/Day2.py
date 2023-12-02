@@ -1,7 +1,7 @@
 import re
 
 # Open the file
-file = open("Day2.txt", "r").read().splitlines()
+file = open("Day2\Day2.txt", "r").read().splitlines()
 
 # Split the file into lists where he find the \n
 file = [x.split('\n') for x in file]

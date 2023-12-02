@@ -1,7 +1,7 @@
 import re
 
 # Open the file
-file = open("Day1.txt", "r")
+file = open("Day1\Day1.txt", "r")
 file = file.read().splitlines()
 
 # Dictionary mapping words to their corresponding numeric values
